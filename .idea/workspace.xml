@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConversionTiposDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosDialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManejoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoFacturaTareaUNO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +57,21 @@
       <option name="presentableId" value="Default" />
       <updated>1718249127524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Termino seccion manejo String">
+      <option name="closed" value="true" />
+      <created>1719017567594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719017567594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[MEBS][VARIBLES-SECCION] Esta seccion contiene algunos ejemplos de variables en java." />
+    <MESSAGE value="Termino seccion manejo String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Termino seccion manejo String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
