@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mbautista.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boleans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablesPrimitivas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablesPrimitivasFloatDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionTiposDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaDatosDialogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EntradaDatosScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManejoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProyectoFacturaTareaUNO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImprimeNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImprimeNombre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariablesDinamicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariablesDinamicas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
