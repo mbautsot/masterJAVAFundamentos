@@ -1,3 +1,5 @@
+package Variables;
+
 public class ConversionTiposDatos {
     public static void main(String[] args) {
         String numeroStr = "50";

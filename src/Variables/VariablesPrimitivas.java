@@ -1,3 +1,5 @@
+package Variables;
+
 public class VariablesPrimitivas {
 
     public static void main(String[] args) {

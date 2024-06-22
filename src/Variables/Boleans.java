@@ -1,3 +1,5 @@
+package Variables;
+
 public class Boleans {
     public static void main(String[] args) {
         boolean isBolean=true;

@@ -1,18 +1,17 @@
-import javax.swing.*;
-import java.util.InputMismatchException;
-import java.util.Scanner;
+package Cadenas;
 
-public class EntradaDatosScanner {
+import javax.swing.*;
+
+public class EntradaDatosDialogo {
     public static void main(String[] args) {
         int numDecimal = 0;
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Ingresa un numero :");
+        String numeroStr = JOptionPane.showInputDialog("Ingresa numero para realizar conversion:");
 
         try{
-            numDecimal = scan.nextInt();
+            numDecimal = Integer.parseInt(numeroStr);
 
-        }catch (InputMismatchException e){
-            System.out.println("Error debes de ingresar un numero");
+        }catch (NumberFormatException e){
+            JOptionPane.showMessageDialog(null, "Ingresa un numero valido");
             main(args);
             System.exit(0);
         }
@@ -41,6 +40,6 @@ public class EntradaDatosScanner {
         mensaje += "\n"+msgDecimalToOctal;
         mensaje += "\n"+msgDecimalToHexadecimal;
 
-        System.out.println(mensaje);
+        JOptionPane.showMessageDialog(null,mensaje);
     }
 }

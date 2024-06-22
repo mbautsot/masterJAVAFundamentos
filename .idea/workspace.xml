@@ -4,19 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConversionTiposDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosDialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManejoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoFacturaTareaUNO.java" afterDir="false" />
+    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo String">
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperacionesRelacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresAsignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresIncremDecrem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresUnarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boleans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Boleans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversionTiposDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/ConversionTiposDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EjemploStringExtensionArchivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EjemploStringMetodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EjemploStringTestRendimientoConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploStringValidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EjemploStringValidar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaDatosDialogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EntradaDatosDialogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaDatosScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/EntradaDatosScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimeNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ImprimeNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManejoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ManejoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cadenas/ProgramaManejoDeNombres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProyectoFacturaTareaUNO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/ProyectoFacturaTareaUNO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariablesDinamicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/VariablesDinamicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariablesPrimitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/VariablesPrimitivas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariablesPrimitivasFloatDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variables/VariablesPrimitivasFloatDouble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +73,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Operadores" />
       <recent name="" />
     </key>
   </component>
@@ -70,7 +86,45 @@
       <option name="presentableId" value="Default" />
       <updated>1718249127524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Termino seccion manejo String">
+      <option name="closed" value="true" />
+      <created>1719017567594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719017567594</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Termino seccion manejo String">
+      <option name="closed" value="true" />
+      <created>1719017618100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719017618100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Termino seccion manejo String">
+      <option name="closed" value="true" />
+      <created>1719017628612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719017628612</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Termino seccion manejo String">
+      <option name="closed" value="true" />
+      <created>1719017638226</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719017638227</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[MEBS][VARIBLES-SECCION] Esta seccion contiene algunos ejemplos de variables en java." />
+    <MESSAGE value="Termino seccion manejo String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Termino seccion manejo String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

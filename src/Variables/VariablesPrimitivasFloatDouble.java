@@ -1,3 +1,5 @@
+package Variables;
+
 public class VariablesPrimitivasFloatDouble {
 
     public static void main(String[] args) {

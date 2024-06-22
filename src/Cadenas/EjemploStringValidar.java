@@ -1,3 +1,5 @@
+package Cadenas;
+
 public class EjemploStringValidar {
 
     public static void main(String[] args) {

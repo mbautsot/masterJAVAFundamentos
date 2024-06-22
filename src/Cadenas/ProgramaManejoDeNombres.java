@@ -1,3 +1,5 @@
+package Cadenas;
+
 import java.util.Scanner;
 
 public class ProgramaManejoDeNombres {

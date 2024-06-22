@@ -1,3 +1,5 @@
+package Variables;
+
 public class Characters {
     public static void main(String[] args) {
         //TODO se agrega la u para indicar que es unicode

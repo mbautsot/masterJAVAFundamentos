@@ -1,3 +1,5 @@
+package Cadenas;
+
 public class ManejoString {
     public static void main(String[] args) {
         //TODO los string son objetos de java, del tipo de referencia.
