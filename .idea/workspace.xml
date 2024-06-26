@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="" />
+    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo de Operadores">
+      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioNombreMasLargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioNumerosMayorMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioTanqueGasolina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorIntanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernarioNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/PrecedenciaOpradores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/instanceofExample/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/instanceofExample/InstanceofExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Operadores" />
       <recent name="" />
     </key>
   </component>
@@ -57,6 +70,23 @@
       <option name="presentableId" value="Default" />
       <updated>1718249127524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Termino seccion manejo de Operadores">
+      <option name="closed" value="true" />
+      <created>1719370106538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719370106539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Termino seccion manejo de Operadores">
+      <option name="closed" value="true" />
+      <created>1719370118157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719370118157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Termino seccion manejo de Operadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Termino seccion manejo de Operadores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

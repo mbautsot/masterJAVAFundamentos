@@ -59,7 +59,7 @@ public class OperadoresLogicosLoginArray {
             System.out.println("Bienvenido usuario :"+ usr );
 
         }else {
-            System.out.println("Lo siento te debes de autenticar.");
+            System.out.println("Error usuario no autenticado.");
         }
 
 
