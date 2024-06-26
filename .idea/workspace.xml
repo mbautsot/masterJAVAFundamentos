@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo de Operadores">
-      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioNombreMasLargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioNumerosMayorMenor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/EjercicioTanqueGasolina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorIntanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadorTernarioNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/PrecedenciaOpradores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/instanceofExample/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores/instanceofExample/InstanceofExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/OperadoresLogicosLoginArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/EjercicioNombreMasLargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/EjercicioNombreMasLargo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

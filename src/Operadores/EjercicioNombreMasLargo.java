@@ -1,11 +1,51 @@
 package Operadores;
 
 import javax.swing.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class EjercicioNombreMasLargo {
     public static void main(String[] args) {
 
+        int i =0;
+        List<String> nombres = new ArrayList<>();
+        while (i<3){
+            String nombreCompleto = JOptionPane.showInputDialog("Ingresa Nombre con Apellido:");
+            if (nombreCompleto == null || nombreCompleto.trim().isEmpty() || nombreCompleto.split(" ").length < 2) {
+                JOptionPane.showMessageDialog(null, "Debe ingresar un nombre completo válido (Nombre y Apellido).");
+                continue; // Solicita nuevamente si la entrada no es válida
+            }
+            nombres.add(nombreCompleto.trim());
+            i++;
+        }
 
+        String nombreMasLargo = "";
+        int longitudMasLarga = 0;
+
+
+        for (String nombreCompleto : nombres) {
+            String[] partes = nombreCompleto.split(" ");
+            int longitudNombre = partes[0].length();
+            System.out.println("nombre :" + longitudNombre);
+            int longitudApellido = partes[1].length();
+            System.out.println("nombre :" + longitudApellido);
+
+            int longitudTotal = longitudNombre + longitudApellido;
+            System.out.println("longitudTotal :" + longitudTotal +" --->" +nombreCompleto);
+
+
+            if (longitudTotal > longitudMasLarga) {
+                longitudMasLarga = longitudTotal;
+                nombreMasLargo = nombreCompleto;
+            }else{
+                nombreMasLargo = "Hay un empate en la longitud de los nombres.";
+            }
+        }
+
+        String resultado = "El nombre más largo es: " + nombreMasLargo;
+        JOptionPane.showMessageDialog(null, resultado);
+
+        /*
         String nombre_completo1 = JOptionPane.showInputDialog("Ingresa primer Nombre con Apellido");
        // System.out.println("Nombre completo :"+ nombre_completo1);
 
@@ -57,5 +97,7 @@ public class EjercicioNombreMasLargo {
 
 
         JOptionPane.showMessageDialog(null,resultado);
+
+         */
     }
 }
