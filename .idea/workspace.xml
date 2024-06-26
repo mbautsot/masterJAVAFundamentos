@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConversionTiposDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringExtensionArchivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodosArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringTestRendimientoConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosDialogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EntradaDatosScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManejoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramaManejoDeNombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProyectoFacturaTareaUNO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +58,17 @@
       <updated>1718249127524</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
