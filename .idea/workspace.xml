@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo de Operadores">
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/EjercicioFlujoControl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/MenuInteractivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/MultiplicacionDosNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/NumeroMenorADiez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/PromedioAlumnos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciaDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciaForConArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciaForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciaIfElseNumDiasMes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciaSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciasBucleEtiquetas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciasBuclesEtiquetasBuscar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciasFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlujoDeControl/SentenciasIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/AutoboxingInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/MetodoGetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/PasarPorReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/PasarPorReferenciaNombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/PasarPorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/WrapperBolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/WrapperInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesWrapper/WrapperOperadoresRelacionales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ClasesWrapper" />
       <recent name="Operadores" />
       <recent name="" />
     </key>
