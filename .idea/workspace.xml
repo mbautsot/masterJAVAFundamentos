@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58f86518-8ed1-428e-a6f8-51cab1d424d7" name="Changes" comment="Termino seccion manejo de Operadores">
-      <change afterPath="$PROJECT_DIR$/src/ClasesDateCalendar/EjemploDateCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesDateCalendar/EjemploJavaUtilCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesDateCalendar/EjemploJavaUtilDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesDateCalendar/EjemploJavaUtilDateParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasesDateCalendar/EjercicioEdadPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploAsigarPropiedadesSsistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploEjecutarProgramaSO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploPropiedadesSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploSystem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploSystemPropiedades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/EjemploVariablesEntorno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseSystem/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ClaseSystem" />
       <recent name="ClasesDateCalendar" />
       <recent name="ClasesWrapper" />
       <recent name="Operadores" />
